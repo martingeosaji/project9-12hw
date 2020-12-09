@@ -1,6 +1,6 @@
-a=2
-c=3
-f=9
+a=5
+c=6
+f=3
 if(a>c):
     if(a>f):
         print(a)
