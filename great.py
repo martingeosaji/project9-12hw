@@ -1,0 +1,11 @@
+a=2
+c=3
+f=9
+if(a>c):
+    if(a>f):
+        print(a)
+else:
+    if(c>f):
+        print(c)
+    else:
+        print(f)
